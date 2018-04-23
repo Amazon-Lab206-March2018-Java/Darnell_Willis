@@ -2,9 +2,7 @@ import java.lang.Math;
 
 public class PythagoreanTest {
 
-    public double calculateHypotenuse(int legA, int legB) {
-            double four = 4.0;
-            double squareRoot = Math.sqrt(four);
+    public double hypotenuse (int legA, int legB) {
+        return Math.sqrt ( legA * legA + legB * legB );
     }
-    
 }
