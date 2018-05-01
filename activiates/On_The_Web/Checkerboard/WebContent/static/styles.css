@@ -1,0 +1,15 @@
+.blocks {
+	display: block;
+}
+.red {
+	display: inline-block;
+	height: 50px;
+	width: 50px;
+	background-color: red;
+}
+.gold {
+	display: inline-block;
+	background-color: gold;
+	height: 50px;
+	width: 50px;
+}
