@@ -103,7 +103,7 @@ public class PuzzleJava {
         return saltStr;
     }
 
-
+    
     public static List<String> task7() {
         ArrayList<String> newArr = new ArrayList<String>();
         String SALTCHARS = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";

@@ -1,0 +1,13 @@
+@charset "ISO-8859-1";
+
+header {
+	text-align: center;
+}
+
+.me {
+	margin: 0px 90px;
+}
+
+.me, .proj {
+	font-size: 40px;
+}

@@ -1,0 +1,17 @@
+@charset "ISO-8859-1";
+
+h1 {
+	text-align: center;
+}
+
+.image {
+	border: 2px solid black;
+	padding: 30px;
+	margin: 20px;
+	display: inline-block;
+}
+
+.text {
+	width: 600px;
+	vertical-align: top;
+}
